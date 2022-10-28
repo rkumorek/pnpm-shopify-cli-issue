@@ -1,0 +1,17 @@
+{
+  "name": "tmp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@shopify/cli": "^3.20.1",
+    "@shopify/theme": "^3.20.1",
+    "copy-webpack-plugin": "^11.0.0"
+  }
+}
